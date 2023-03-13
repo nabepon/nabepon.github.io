@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>editable</title>
+</head>
+<body contenteditable>
+<textarea placeholder="notes" style="width: 100%"></textarea>
+<br>
+<br>
+-- edit --
+</body>
+</html>
